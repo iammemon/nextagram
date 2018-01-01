@@ -1,0 +1,4 @@
+.next
+node_modules
+session-store.db
+config/server.*

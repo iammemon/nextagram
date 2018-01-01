@@ -1,0 +1,7 @@
+{
+    "name":"nextagram",
+    "alias": "nextagram",    
+    "env":{
+        "SERVER_CONFIG":"@server-config"
+    }
+}
